@@ -1,0 +1,24 @@
+{
+    "name": "tayron/integer-object",
+    "description": "Classe para manipulação de números inteiros",
+    "version": "1.0.0",
+    "type": "classe-utilitaria",
+    "homepage": "https://github.com/tayron/integer-object",
+    "authors": [
+        {
+            "name": "Tayron Miranda",
+            "email": "dev@tayron.com.br"
+        }
+    ],    
+    "require": {
+        "php": ">=5.3",
+        "tayron/string-object": "1.0.0",
+        "tayron/float-object": "1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tayron\\": "\\src\\"
+        }
+    }      
+
+}
