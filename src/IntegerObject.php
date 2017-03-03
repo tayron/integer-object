@@ -180,10 +180,10 @@ class IntegerObject
      * 
      * Método que retorna o valor do conteúdo do objeto em forma de texto
      * 
-     * @return integer Valor do conteúdo do objeto em texto
+     * @return string Valor do conteúdo do objeto em texto
      */
 	public function __toString()
 	{
-		return (int)$this->integer;
+		return (string)$this->integer;
 	}	
 }
