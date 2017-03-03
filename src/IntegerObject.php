@@ -47,7 +47,7 @@ class IntegerObject
      */
 	public function isEquals(IntegerObject $integer)
 	{
-		return ($this == $integer);
+		return ($this->getValue() === $integer->getValue());
 	}
 	
     /**
