@@ -21,7 +21,7 @@ Classe para gerenciamento de números inteiros
 ```sh
     "require": {
         ...
-        "tayron/integer-object" : "dev-master"
+        "tayron/integer-object" : "1.0.0"
         ... 
     },    
 ```
