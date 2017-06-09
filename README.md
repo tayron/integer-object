@@ -1,4 +1,4 @@
-## IntegerObject 1.0.0
+## IntegerObject
 
 Classe para gerenciamento de números inteiros
 
@@ -21,7 +21,7 @@ Classe para gerenciamento de números inteiros
 ```sh
     "require": {
         ...
-        "tayron/integer-object" : "1.0.0"
+        "tayron/integer-object" : "dev-master"
         ... 
     },    
 ```
